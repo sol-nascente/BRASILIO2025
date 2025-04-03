@@ -16,7 +16,8 @@ alunos = ['matheus', 'fulano'] #Lista
 print(alunos)
 alunos [1] = 'ciclano' #Substitui o item da lista com o numeros especificado
 print(alunos)
-alunos 
+alunos.append('beltrano') #Adiciona "beltrano" ao final
+print(alunos)
 alunos
 alunos
 alunos
