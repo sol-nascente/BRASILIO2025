@@ -11,3 +11,12 @@ string = 'palavre entre aspas'
 booleano: True or False
 
 #manipulacao de listas
+
+alunos = ['matheus', 'fulano'] #Lista
+print(alunos)
+alunos [1] = 'ciclano' #Substitui o item da lista com o numeros especificado
+print(alunos)
+alunos 
+alunos
+alunos
+alunos
