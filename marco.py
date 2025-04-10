@@ -13,14 +13,14 @@ booleano: True or False
 #manipulacao de listas
 
 alunos = ['matheus', 'fulano'] #Lista
-print(alunos) #Exibe a algo, no caso, a lista
+print(1,alunos) #Exibe a algo, no caso, a lista
 alunos [1] = 'ciclano' #Substitui o item da lista com o numeros especificado(fulano>ciclano)
-print(alunos)
+print(2,alunos)
 alunos.append('beltrano') #Adiciona "beltrano" ao final
-print(alunos)
+print(3,alunos)
 alunos.insert(2,'clarence') #Adiciona "clarence" na posicao especificada(2)
-print(alunos)
+print(4,alunos)
 alunos.sort() #Arruma em ordem alfabetica ou crescente
-print(alunos)
+print(5,alunos)
 alunos #Arruma para ordem reversa, funciona com ou sem .sort()
-print(alunos)
+print(6,alunos)
